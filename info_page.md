@@ -13,7 +13,7 @@ We require an up-to-date PeeringDB entry for all public peering requests, includ
 
 We ask that peers also maintain their private peering facility details, as we use this information for private peering (PNI) targeting.
 
-#### Locations
+## Locations
 
 **Please check peeringdb for the latest information**
 
@@ -21,7 +21,7 @@ Hurricane Electric Fremont 2
 
 Equinix SV1/SV5/SV10 - Silicon Valley, San Jose
 
-#### Internet Exchange Points
+## Internet Exchange Points
 
 **Please check peeringdb for the latest information**
 
