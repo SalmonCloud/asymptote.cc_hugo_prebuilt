@@ -1,5 +1,15 @@
 # Who We Are
-We are Asymptote Network LLC. Our business started in 2023 as a group of IT enthusiasts who were dedicated to providing infrastructures with privacy protection in mind. Each of our co-founders, namely Brandon, Chris, and Roger, has their own skill sets which work well together to ensure the smooth running of our IaaS (Infrastructure as a Service) business.
+We are Asymptote Network LLC, a dynamic, forward-thinking company born in 2023 out of a collective passion for secure IT infrastructures. We are not just a business; we are a team of dedicated IT enthusiasts, steadfast in our mission to equip businesses with robust and privacy-centric infrastructures.
+
+The very foundation of Asymptote Network LLC lies in the rich blend of skills and expertise brought to the table by our three co-founders: Brandon, Chris, and Roger.
+
+Brandon, as our system administrator, is the backbone of our operations, ensuring that all systems run seamlessly at all times. He manages and optimizes our IT resources, troubleshooting any issues that may arise and implementing system updates as needed. His proactive approach and exceptional problem-solving skills are vital to maintaining the high uptime and performance our clients have come to expect.
+
+Chris is our highly skilled network engineer, the architect behind our robust and reliable network infrastructures. His knowledge and experience in network management and security ensure that our systems are not just efficient, but also resilient against threats. Chris's expertise is crucial in designing and managing networks that deliver optimal performance, high availability, and most importantly, uncompromised security.
+
+Roger is our software engineer, the creative force who drives our technological advancement. He is adept at designing and managing complex software systems, tailoring solutions to fit each client's unique needs. Roger’s role involves developing custom applications, integrating systems, and maintaining software to ensure our services stay at the forefront of the industry.
+
+Together, Brandon, Chris, and Roger form a synergistic triad, merging system administration, network engineering, and software development to deliver outstanding IaaS services. Their collaborative efforts ensure the smooth running of Asymptote Network LLC, making us a trusted name in the realm of secure IT infrastructure.
 
 ---
 
@@ -12,18 +22,3 @@ Both of our strategic locations house a comprehensive range of our services. The
 
 # How to Contact Us
 ### Email: chris@asymptote.cc
-
-
-Who We Are
-
-We are Asymptote Network LLC, a dynamic, forward-thinking company born in 2023 out of a collective passion for secure IT infrastructures. We are not just a business; we are a team of dedicated IT enthusiasts, steadfast in our mission to equip businesses with robust and privacy-centric infrastructures.
-
-The very foundation of Asymptote Network LLC lies in the rich blend of skills and expertise brought to the table by our three co-founders: Brandon, Chris, and Roger. Each of them is an industry expert in their own right, and it is their distinct capabilities that underpin the success of our Infrastructure as a Service (IaaS) business.
-
-Brandon, as our system administrator, is the backbone of our operations, ensuring that all systems run seamlessly at all times. He manages and optimizes our IT resources, troubleshooting any issues that may arise and implementing system updates as needed. His proactive approach and exceptional problem-solving skills are vital to maintaining the high uptime and performance our clients have come to expect.
-
-Chris is our highly skilled network engineer, the architect behind our robust and reliable network infrastructures. His knowledge and experience in network management and security ensure that our systems are not just efficient, but also resilient against threats. Chris's expertise is crucial in designing and managing networks that deliver optimal performance, high availability, and most importantly, uncompromised security.
-
-Roger is our software engineer, the creative force who drives our technological advancement. He is adept at designing and managing complex software systems, tailoring solutions to fit each client's unique needs. Roger’s role involves developing custom applications, integrating systems, and maintaining software to ensure our services stay at the forefront of the industry.
-
-Together, Brandon, Chris, and Roger form a synergistic triad, merging system administration, network engineering, and software development to deliver outstanding IaaS services. Their collaborative efforts ensure the smooth running of Asymptote Network LLC, making us a trusted name in the realm of secure IT infrastructure.
