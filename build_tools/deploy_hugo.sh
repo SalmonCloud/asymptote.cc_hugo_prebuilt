@@ -20,12 +20,12 @@ WEB_ROOT="./public"
 #cp $CONTENT_ROOT/github_repo/info_page.md $CONTENT_ROOT/content/info.md &&
 #echo "Markdown files copied to $CONTENT_ROOT/content/" &&
   
-rm -r $CONTENT_ROOT/public/* &&
-echo "$CONTENT_ROOT/public/ directory cleared" &&
-echo &&
+#rm -r $CONTENT_ROOT/public/* &&
+#echo "$CONTENT_ROOT/public/ directory cleared" &&
+#echo &&
   
-cd $CONTENT_ROOT &&
-hugo &&
+#cd $CONTENT_ROOT &&
+hugo -b $CF_PAGES_URL &&
 echo &&
   
 #rm -r $WEB_ROOT/* &&
@@ -34,9 +34,9 @@ echo &&
 #echo "Built Hugo files copied to $WEB_ROOT/" &&
 #echo &&
  
-cp $CONTENT_ROOT/github_repo/AS53616.csv $WEB_ROOT/geofeed.csv &&
+cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.csv &&
 echo "CSV file copied to $WEB_ROOT/geofeed.csv" &&
-cp $CONTENT_ROOT/github_repo/AS53616.csv $WEB_ROOT/geofeed.txt &&
+cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.txt &&
 echo "CSV file copied to $WEB_ROOT/geofeed.txt" &&
 echo &&
  
