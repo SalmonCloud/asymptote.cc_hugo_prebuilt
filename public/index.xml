@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://asymptote.cc/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://asymptote.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://asymptote.cc/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://asymptote.cc/about/</guid>
+      <description>Who We Are We are Asymptote Network LLC, a dynamic, forward-thinking company born in 2023 out of a collective passion for secure IT infrastructures. We are not just a business; we are a team of dedicated IT enthusiasts, steadfast in our mission to equip businesses with robust and privacy-centric infrastructures.
+The very foundation of Asymptote Network LLC lies in the rich blend of skills and expertise brought to the table by our three co-founders: Brandon, Chris, and Roger.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://asymptote.cc/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://asymptote.cc/info/</guid>
+      <description>AS Information https://www.peeringdb.com/net/33658 Peering Policies Asymptote Network operates using the autonomous system AS53616.
+We have an open peering policy, no minimum traffic requirements at this moment.
+We require an up-to-date PeeringDB entry for all public peering requests, including exchange information with properly formatted public fabric addresses, ASNs, and NOC/peering contact information.
+We ask that peers also maintain their private peering facility details, as we use this information for private peering (PNI) targeting.</description>
+    </item>
+    
+  </channel>
+</rss>
