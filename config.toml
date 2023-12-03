@@ -6,11 +6,11 @@ theme = "nightfall"
   [[menu.header]]
     name = "info"
     weight = 0
-    url = "info"
+    url = "/info/"
   [[menu.header]]
     name = "about"
     weight = 1
-    url = "about"
+    url = "/about/"
 
 [params]
 author = "Asymptote Network LLC"
