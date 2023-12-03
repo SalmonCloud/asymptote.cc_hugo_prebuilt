@@ -24,16 +24,17 @@ WEB_ROOT="./public"
 #echo "$CONTENT_ROOT/public/ directory cleared" &&
 #echo &&
   
-mkdir $WEB_ROOT
-cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.csv &&
-echo "CSV file copied to $WEB_ROOT/geofeed.csv" &&
-cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.txt &&
-echo "CSV file copied to $WEB_ROOT/geofeed.txt" &&
-echo &&
+#mkdir $WEB_ROOT
+#cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.csv &&
+#echo "CSV file copied to $WEB_ROOT/geofeed.csv" &&
+#cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.txt &&
+#echo "CSV file copied to $WEB_ROOT/geofeed.txt" &&
+#echo &&
  
 #cd $CONTENT_ROOT &&
-hugo -b $CF_PAGES_URL &&
-echo &&
+#hugo -b $CF_PAGES_URL &&
+hugo -b $CF_PAGES_URL
+#echo &&
   
 #rm -r $WEB_ROOT/* &&
 #echo "$WEB_ROOT/ directory cleared" &&
@@ -48,6 +49,6 @@ echo &&
 #echo "Geofeed page built and copied to $WEB_ROOT/geofeed/index.html" &&
 #echo &&
  
-echo "The freshly built site is ready to go!" ||
-echo "The script ran into an error. Please check and then run the script again."
+#echo "The freshly built site is ready to go!" ||
+#echo "The script ran into an error. Please check and then run the script again."
 #fi
