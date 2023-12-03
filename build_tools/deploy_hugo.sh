@@ -24,6 +24,13 @@ WEB_ROOT="./public"
 #echo "$CONTENT_ROOT/public/ directory cleared" &&
 #echo &&
   
+mkdir $WEB_ROOT
+cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.csv &&
+echo "CSV file copied to $WEB_ROOT/geofeed.csv" &&
+cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.txt &&
+echo "CSV file copied to $WEB_ROOT/geofeed.txt" &&
+echo &&
+ 
 #cd $CONTENT_ROOT &&
 hugo -b $CF_PAGES_URL &&
 echo &&
@@ -33,12 +40,6 @@ echo &&
 #cp -r $CONTENT_ROOT/public/* $WEB_ROOT &&
 #echo "Built Hugo files copied to $WEB_ROOT/" &&
 #echo &&
- 
-cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.csv &&
-echo "CSV file copied to $WEB_ROOT/geofeed.csv" &&
-cp $CONTENT_ROOT/AS53616.csv $WEB_ROOT/geofeed.txt &&
-echo "CSV file copied to $WEB_ROOT/geofeed.txt" &&
-echo &&
  
 #cp $CONTENT_ROOT/github_repo/AS53616.csv $CONTENT_ROOT &&
 #python3 $CONTENT_ROOT/geofeed_page_maker.py &&
