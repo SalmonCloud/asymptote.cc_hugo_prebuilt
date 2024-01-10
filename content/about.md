@@ -9,14 +9,16 @@ Chris is our highly skilled network engineer, the architect behind our robust an
 
 Roger is our software engineer, the creative force who drives our technological advancement. He is adept at designing and managing complex software systems, tailoring solutions to fit each client's unique needs. Roger’s role involves developing custom applications, integrating systems, and maintaining software to ensure our services stay at the forefront of the industry.
 
-Together, Brandon, Chris, and Roger form a synergistic triad, merging system administration, network engineering, and software development to deliver outstanding IaaS services. Their collaborative efforts ensure the smooth running of Asymptote Network LLC, making us a trusted name in the realm of secure IT infrastructure.
+Together, Brandon, Chris, and Roger form a synergistic triad, merging system administration, network engineering, and software development to deliver outstanding Datacenter services including IaaS, IP Transit, server colocation and more. Their collaborative efforts ensure the smooth running of Asymptote Network LLC, making us a trusted name in the realm of secure IT infrastructure.
 
 ---
 
 # Where We Are
-Our facility in the San Jose, United States puts us right in the heart of Silicon Valley, the global technology epicenter. This location gives us access to world-class IT infrastructure, cutting-edge innovations, and the capacity to meet the demanding requirements of our North American clients. Our presence here aligns us with the pace of the fast-evolving IT sector.
+Our facility in San Jose, United States puts us right in the heart of Silicon Valley, the global technology epicenter. This location gives us access to world-class IT infrastructure, cutting-edge innovations, and the capacity to meet the demanding requirements of our North American clients. Our presence here aligns us with the pace of the fast-evolving IT sector.
 
-Both of our strategic locations house a comprehensive range of our services. These include data storage and management, network services, and server hosting, among others. We utilize high-level encryption and privacy safeguards to ensure your data remains secure and protected. Regardless of your geographical location, we are committed to providing our clients with IaaS solutions that prioritize privacy protection and cater to their unique business needs.
+Our facility in Hong Kong, strategically situated in the bustling metropolis, our facility stands at the crossroads of global commerce and innovation. This prime location affords us unparalleled access to the dynamic markets of Asia-Pacific, connecting us with cutting-edge technological advancements and robust financial networks. 
+
+Both of our strategic locations house a comprehensive range of our services. These include data storage and management, IP Transit, IaaS, among others. We utilize high-level encryption and privacy safeguards to ensure your data remains secure and protected. Regardless of your geographical location, we are committed to providing our clients with IaaS solutions that prioritize privacy protection and cater to their unique business needs.
 
 ---
 
