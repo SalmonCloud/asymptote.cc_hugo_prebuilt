@@ -17,9 +17,11 @@ We ask that peers also maintain their private peering facility details, as we us
 
 **Please check peeringdb for the latest information**
 
-Hurricane Electric Fremont 2
+Hurricane Electric Fremont 2 - Fremont, United States
 
-Equinix SV1/SV5/SV10 - Silicon Valley, San Jose
+Equinix SV1/SV5/SV10 Silicon Valley - San Jose, United States
+
+iTech Towers 2 - New Territories, Hong Kong
 
 ## Internet Exchange Points
 
