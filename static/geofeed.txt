@@ -11,3 +11,4 @@
 180.131.144.0/24,HK,HK-HCW,"Hong Kong",
 91.124.30.0/24,HK,HK-HCW,"Hong Kong",
 38.224.163.0/24,US,US-CA,San Jose,
+204.235.243.0/24,US,US-CA,San Francisco,
