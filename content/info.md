@@ -23,13 +23,15 @@ Equinix SV1/SV5/SV10 Silicon Valley - San Jose, United States
 
 iTech Towers 2 - New Territories, Hong Kong
 
+Equinix HK2 - Kwai Chung, Hong Kong
+
 ## Internet Exchange Points
 
 **Please check peeringdb for the latest information**
 
 FCIX -- 10Gbps
 
-Equinix San Jose -- 10Gbps
+Equinix Hong Kong -- 10Gbps
 
 #### Contact
 
