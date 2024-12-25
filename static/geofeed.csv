@@ -1,8 +1,9 @@
-# Asymptote Network LLC Geofeed, last updated (RFC3339): 2024-12-16T16:26:28+00:00
+# Asymptote Network LLC Geofeed, last updated (RFC3339): 2024-12-25T16:26:28+00:00
 2602:fa67::/48,US,US-CA,San Jose,
 2602:fa67:1::/48,US,US-CA,San Jose,
 2602:fa67:10::/48,US,US-CA,San Jose,
 2602:fa67:100::/48,US,US-CA,San Jose,
+2602:fa67:2::/48,HK,HK-HCW,"Hong Kong",
 2602:fa67:11::/48,HK,HK-HCW,"Hong Kong",
 2602:fa67:101::/48,HK,HK-HCW,"Hong Kong",
 2602:fa67:102::/48,HK,HK-HCW,"Hong Kong",
